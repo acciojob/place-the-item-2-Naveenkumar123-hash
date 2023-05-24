@@ -1,2 +1,19 @@
+.holder{display:flex;
+	   justify-content:center;
+	   flex-wrap:wrap;}
+.one{background:green;
+	width:30px;
+	height:30px;}
+.two{background:red;
+	width:30px;
+	height:30px;}
+.three{background:blue;
+	width:30px;
+	height:30px;}
+
+
+
+
+
 
 /* Your CSS Code here. */
